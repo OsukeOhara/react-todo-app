@@ -1,4 +1,4 @@
-This project was originally created in 2017 by Osuke Ohara
+# This project was originally created in 2017 by Osuke Ohara
 
 # React Todo App
 
